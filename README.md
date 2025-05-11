@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data analysis porjects
 - 📫 www.linkedin.com/in/miraj
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Mirajlm10/Mirajlm10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
